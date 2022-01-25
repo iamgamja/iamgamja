@@ -1,2 +1,4 @@
-# iamgamja
-* discord: [감자#9400](http://discord.com/users/526889025894875158 "click to discord")
+# iamgamja [![Iamgamja's Discord Profile](https://dcbadge.vercel.app/api/shield/526889025894875158?style=flat-square&theme=discord&logoColor=yellow)](http://discord.com/users/526889025894875158 "My Discord Profile")
+
+[![Iamgamja's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgamja&show_icons=true&locale=kr)](https://github.com/anuraghazra/github-readme-stats "My Github Stats")
+[![Iamgamja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgamja&layout=compact&locale=kr)](https://github.com/anuraghazra/github-readme-stats "My Top Langs")
