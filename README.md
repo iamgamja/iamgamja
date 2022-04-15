@@ -5,4 +5,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iamgamja)](https://solved.ac/iamgamja)
 
-![snake](https://raw.githubusercontent.com/iamgamja/iamgamja/dist/github-snake.svg)
+![snake](https://raw.githubusercontent.com/iamgamja/iamgamja/dist/github-contribution-grid-snake.svg)
