@@ -1,12 +1,15 @@
-# Hi! 👀
+<div align="center">
 
----
+  # Hi! I'm iamgamja
+  <img src="https://dcbadge.vercel.app/api/shield/526889025894875158?style=flat-square&theme=discord"/></h2>
 
-## iamgamja [![Iamgamja's Discord Profile](https://dcbadge.vercel.app/api/shield/526889025894875158?style=flat-square&theme=discord)](http://discord.com/users/526889025894875158 "My Discord Profile")
 
-[![Iamgamja's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgamja&show_icons=true&locale=kr)](https://github.com/anuraghazra/github-readme-stats "My Github Stats")
-[![Iamgamja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgamja&layout=compact&locale=kr)](https://github.com/anuraghazra/github-readme-stats "My Top Langs")
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iamgamja)](https://solved.ac/iamgamja)
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iamgamja" width="49%"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=iamgamja&theme=warm" width="49%"/>
 
-![Snake](https://raw.githubusercontent.com/iamgamja/iamgamja/output/github-contribution-grid-snake.svg)
+  <img src="https://github-readme-stats.vercel.app/api?username=iamgamja&show_icons=true&locale=kr" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgamja&layout=compact&locale=kr" width="49%"/>
+
+  <img src="https://raw.githubusercontent.com/iamgamja/iamgamja/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
